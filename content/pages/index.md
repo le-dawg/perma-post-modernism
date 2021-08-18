@@ -25,7 +25,6 @@ sections:
     background_color: secondary
   - type: grid_section
     title: How Permapost helps free speech and journalism
-    subtitle: In a Glance
     align: center
     grid_items:
       - title: Right When You Need It
