@@ -97,9 +97,10 @@ sections:
     features:
       - title: A minimalist interface
         subtitle: Stay on mission.
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: >
+          No ads, no recommendation engines: our UI keeps you on mission and
+          makes posting prices fully transparent. Added bonus: you can delay
+          posting to wait for optimal gas prices.
         actions:
           - label: Learn More
             url: /pricing
