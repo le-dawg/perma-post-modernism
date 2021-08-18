@@ -30,9 +30,10 @@ sections:
     grid_items:
       - title: Right When You Need It
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          Permapost does one thing: store critical speech and journalism
+          permanently. No business model, no ads. Straight to the point. To get
+          your voice heard, permanently.
         content_align: left
         actions:
           - label: Learn More
