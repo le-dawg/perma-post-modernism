@@ -142,7 +142,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
   - type: cta_section
-    title: Regain Control of Voice
+    title: Regain Control of your Voice
     content: |
       Make your roar heard across the globe. No permission needed.
     actions:
