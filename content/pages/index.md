@@ -146,9 +146,6 @@ sections:
     content: |
       Make your roar heard across the globe. No permission needed.
     actions:
-      - label: App Store
-        url: /pricing
-        style: primary
       - label: Google Play
         url: /pricing
         style: secondary
