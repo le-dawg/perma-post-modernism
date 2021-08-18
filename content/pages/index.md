@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Post for Posterity
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: Make your roar heard. Forever.
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
