@@ -39,11 +39,6 @@
                 "label": "Launch dApp",
                 "url": "/pricing",
                 "style": "primary"
-            },
-            {
-                "label": "Developer Kit",
-                "url": "/pricing",
-                "style": "secondary"
             }
         ]
     },
