@@ -9,7 +9,7 @@ sections:
       unpopular truths, deplatformed community journalists and everyone who
       relies on their content remaining available - in spite of any resistance.
     actions:
-      - label: Launch
+      - label: Make your Permapost now!
         url: /pricing
         style: primary
       - label: Google Play
