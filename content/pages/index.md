@@ -96,7 +96,7 @@ sections:
   - type: features_section
     features:
       - title: A minimalist interface
-        subtitle: For true work-life balance
+        subtitle: Stay on mission.
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
