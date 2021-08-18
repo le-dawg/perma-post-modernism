@@ -35,7 +35,7 @@ sections:
           your voice heard, permanently.
         content_align: left
         actions:
-          - label: Learn More
+          - label: Learn more in out permanet mission statement
             url: /style-guide
             style: link
             has_icon: true
