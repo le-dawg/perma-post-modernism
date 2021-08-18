@@ -5,9 +5,9 @@ sections:
     title: Post for Posterity
     subtitle: Make your roar heard. Forever.
     content: >
-      Permapost is the only solution for whistleblowers, exposers of unpopular
-      truths, deplatformed community journalists and everyone who relies on
-      their content remaining available - in spite of any resistance.
+      **Permapost **is the only solution for whistleblowers, exposers of
+      unpopular truths, deplatformed community journalists and everyone who
+      relies on their content remaining available - in spite of any resistance.
     actions:
       - label: App Store
         url: /pricing
