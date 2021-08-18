@@ -30,19 +30,7 @@ layout: page
 ---
 Permapost is a product of foundryDAO - a community-bootstrapped outfit of seasoned veterans who know what limited freedoms, limited free speach, excessive government oversight and government violence mean. We are here to make sure that nobody needs to be afraid of government intervention again.
 
-
 Unstoppable dApps. Unstoppable businesses. Unstoppable progress.
 
 ![Our team](/images/team.jpg)
 
-## Work Life Balance
-
-Our goal is for work and life to be controlled in one place, to help you maintain a zen state of mind.
-
-> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Lorinda Mamo, Designer
-
-With App Land, we strive to make it clear and easy to follow a healthy routine of work effectiveness, collaboration, and also family time and social events.
-
-## We Value Your YOU Time
-
-Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
