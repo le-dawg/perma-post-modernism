@@ -4,10 +4,10 @@ sections:
   - type: hero_section
     title: Post for Posterity
     subtitle: Make your roar heard. Forever.
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      Permapost is the only solution for whistleblowers, exposers of unpopular
+      truths, deplatformed community journalists and everyone who relies on
+      their content remaining available - in spite of any resistance.
     actions:
       - label: App Store
         url: /pricing
