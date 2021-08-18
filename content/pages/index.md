@@ -118,7 +118,7 @@ sections:
   - type: features_section
     features:
       - title: “The Taliban can raze my office. They can't burn my Permaposts.”
-        subtitle: 'Travis Guidelines, Manager at Company'
+        subtitle: 'Abdul Karzai, Freelance Journalist in the Kabul Green Zone'
         image: images/person-2.png
         image_alt: Person 2 photo
         media_position: left
