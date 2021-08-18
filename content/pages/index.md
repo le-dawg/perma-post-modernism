@@ -92,6 +92,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+    subtitle: 'Learn more in our '
   - type: features_section
     features:
       - title: A minimalist interface
