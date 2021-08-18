@@ -12,7 +12,7 @@ sections:
       - label: Make your 1st Permapost now!
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Dev Resources.
         url: /pricing
         style: secondary
     image: /images/favicon.svg
