@@ -130,7 +130,7 @@ sections:
     content: |
       Make your roar heard across the globe. No permission needed.
     actions:
-      - label: 'Launch '
+      - label: Launch Permapost dApp now ->
         url: /pricing
         style: secondary
         has_icon: false
