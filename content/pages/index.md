@@ -12,7 +12,7 @@ sections:
       - label: Make your 1st Permapost now!
         url: /pricing
         style: primary
-      - label: Dev Resources.
+      - label: Permapost SDK
         url: /pricing
         style: secondary
     image: /images/favicon.svg
