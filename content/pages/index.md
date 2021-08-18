@@ -117,7 +117,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: “A very useful project management app. I use it every day.”
+      - title: “The Taliban can raze my office. They can't burn my Permaposts.”
         subtitle: 'Travis Guidelines, Manager at Company'
         image: images/person-2.png
         image_alt: Person 2 photo
